@@ -1,4 +1,4 @@
-# Hands-On Machine Learning with Scikit-Learn and PyTorch
+# Hands-On Machine Learning with Scikit-Learn and PyTorch - Cloned by Hadid
 
 The goal of this project is to teach you the fundamentals of Machine Learning in Python. It contains the example code and solutions to the exercises in the first edition of my new O'Reilly book [Hands-on Machine Learning with Scikit-Learn and PyTorch (1st edition)](https://homl.info/):
 
@@ -23,7 +23,6 @@ The goal of this project is to teach you the fundamentals of Machine Learning in
 ### Want to install this project on your own machine?
 
 Check out the [installation instructions](INSTALL.md).
-
 
 # FAQ
 
